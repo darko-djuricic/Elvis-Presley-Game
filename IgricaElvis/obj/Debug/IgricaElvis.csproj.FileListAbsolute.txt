@@ -1,0 +1,13 @@
+C:\Users\djuri\source\repos\IgricaElvis\IgricaElvis\bin\Debug\IgricaElvis.exe.config
+C:\Users\djuri\source\repos\IgricaElvis\IgricaElvis\bin\Debug\IgricaElvis.exe
+C:\Users\djuri\source\repos\IgricaElvis\IgricaElvis\bin\Debug\IgricaElvis.pdb
+C:\Users\djuri\source\repos\IgricaElvis\IgricaElvis\obj\Debug\IgricaElvis.csprojAssemblyReference.cache
+C:\Users\djuri\source\repos\IgricaElvis\IgricaElvis\obj\Debug\IgricaElvis.Form1.resources
+C:\Users\djuri\source\repos\IgricaElvis\IgricaElvis\obj\Debug\IgricaElvis.Properties.Resources.resources
+C:\Users\djuri\source\repos\IgricaElvis\IgricaElvis\obj\Debug\IgricaElvis.csproj.GenerateResource.cache
+C:\Users\djuri\source\repos\IgricaElvis\IgricaElvis\obj\Debug\IgricaElvis.csproj.CoreCompileInputs.cache
+C:\Users\djuri\source\repos\IgricaElvis\IgricaElvis\obj\Debug\IgricaElvis.exe
+C:\Users\djuri\source\repos\IgricaElvis\IgricaElvis\obj\Debug\IgricaElvis.pdb
+C:\Users\djuri\source\repos\IgricaElvis\IgricaElvis\obj\Debug\IgricaElvis.Form2.resources
+C:\Users\djuri\source\repos\IgricaElvis\IgricaElvis\obj\Debug\IgricaElvis.Pocetna.resources
+C:\Users\djuri\source\repos\IgricaElvis\IgricaElvis\obj\Debug\IgricaElvis.Rezultati.resources
